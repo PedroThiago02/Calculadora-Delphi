@@ -1,0 +1,48 @@
+unit Unit1;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.StdCtrls, Vcl.ExtCtrls, Vcl.Buttons;
+
+type
+  TForm1 = class(TForm)
+    Edit1: TEdit;
+    Shape1: TShape;
+    Shape2: TShape;
+    Shape3: TShape;
+    Shape4: TShape;
+    Shape5: TShape;
+    Shape6: TShape;
+    Shape7: TShape;
+    Shape8: TShape;
+    Shape9: TShape;
+    Shape10: TShape;
+    Shape11: TShape;
+    Shape12: TShape;
+    Shape13: TShape;
+    Shape14: TShape;
+    Shape15: TShape;
+    Shape16: TShape;
+    Shape17: TShape;
+    Shape18: TShape;
+    Shape20: TShape;
+    SpeedButton1: TSpeedButton;
+    SpeedButton2: TSpeedButton;
+    SpeedButton3: TSpeedButton;
+    SpeedButton4: TSpeedButton;
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  Form1: TForm1;
+
+implementation
+
+{$R *.dfm}
+
+end.
