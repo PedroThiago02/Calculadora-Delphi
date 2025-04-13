@@ -1,7 +1,7 @@
 # 🧮 Calculadora em Delphi
 
 ![Delphi](https://img.shields.io/badge/Delphi-12.0-red?style=flat-square&logo=delphi)
-![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow?style=flat-square)
+![Status](https://img.shields.io/badge/status-concluído-green?style=flat-square)
 
 ## 🔍 Sobre o Projeto
 
